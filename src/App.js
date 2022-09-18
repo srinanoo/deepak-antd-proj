@@ -8,6 +8,7 @@ import {Project} from './pages/project/Project';
 import {Skills} from './pages/skills/Skills';
 import { Contact } from './pages/contact/Contact';
 
+// This is updated after pushing to github
 
 function App() {
   return (
