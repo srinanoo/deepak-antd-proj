@@ -10,6 +10,8 @@ import { Contact } from './pages/contact/Contact';
 
 // This is updated after pushing to github
 
+// New Code added.
+
 function App() {
   return (
     <>
